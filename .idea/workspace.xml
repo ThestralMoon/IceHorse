@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="65854b2c-0ddd-48d9-96dd-4ef9c3afbc6e" name="Default" comment="GUI Inventory Creation">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/HorseGui.java" />
+    <list default="true" id="65854b2c-0ddd-48d9-96dd-4ef9c3afbc6e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/Main.java" afterPath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -233,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515026048230</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="GUI Inventory Creation v2">
+      <created>1515035294896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515035294896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -272,7 +277,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="GUI Inventory Creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="GUI Inventory Creation" />
+    <MESSAGE value="GUI Inventory Creation v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="GUI Inventory Creation v2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
