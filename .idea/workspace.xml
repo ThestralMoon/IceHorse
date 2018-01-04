@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65854b2c-0ddd-48d9-96dd-4ef9c3afbc6e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/Heads.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HorseGui.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HorseGui.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/me/thestralmoon/icehorse/HorseGui.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
@@ -36,12 +37,23 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Heads.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/me/thestralmoon/icehorse/Heads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -238,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515035294896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GUI Inventory Creation v2">
+      <created>1515035442387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515035442387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -324,6 +343,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/me/thestralmoon/icehorse/Heads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
