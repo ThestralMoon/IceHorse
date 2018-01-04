@@ -1,2 +1,2 @@
 # IceHorse
-A Horse Selection GUI Plugin
+# A Horse Selection GUI Plugin
