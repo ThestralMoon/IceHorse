@@ -12,6 +12,10 @@ public class HorseGui implements Listener {
     public void horseSelectionGui(Player player) {
 
         Inventory horseGui = plugin.getServer().createInventory(null, 27, ChatColor.GOLD + "Horse Selection GUI");
+
+        horseGui.setItem(10, Main.getHead("blackhorse"));
+        horseGui.setItem(11, Main.getHead("brownhorse"));
+
         player.openInventory(horseGui);
     }
 }

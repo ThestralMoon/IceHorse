@@ -1,0 +1,12 @@
+name: IceHorse
+main: me.thestralmoon.icehorse.Main
+version: 1.0
+author: ThestralMoon
+
+commands:
+  head:
+    description: Get a custom head.
+    usage: /<command>
+  horse:
+    description: Open horse selection GUI.
+    usage: /<command>
