@@ -1,6 +1,7 @@
 package me.thestralmoon.icehorse;
 
 import me.thestralmoon.icehorse.commands.GuiCmd;
+import me.thestralmoon.icehorse.commands.HelpCmd;
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
@@ -17,6 +18,7 @@ public class Main extends JavaPlugin {
     public void onEnable() {
 
         getCommand("horse").setExecutor(new GuiCmd());
+        getCommand("horsehelp").setExecutor(new HelpCmd());
 
         getServer().getConsoleSender().sendMessage(ChatColor.GREEN + "[IceHorse] has been Enabled!");
     }

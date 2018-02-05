@@ -10,3 +10,6 @@ commands:
   horse:
     description: Open horse selection GUI.
     usage: /<command>
+  horsehelp:
+    description: Help command.
+    usage: /<command>
