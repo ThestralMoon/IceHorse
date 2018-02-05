@@ -21,7 +21,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/GadgetsMenu.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/HeadDatabaseAPI.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
