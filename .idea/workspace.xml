@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="65854b2c-0ddd-48d9-96dd-4ef9c3afbc6e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/HorseGui.java" afterPath="$PROJECT_DIR$/src/me/thestralmoon/icehorse/HorseGui.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -340,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1517807346267</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format&#10;Started Horse GUI Creation&#10;Horse Heads Fix">
+      <created>1518329999926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1518329999926</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -413,7 +419,8 @@
     <MESSAGE value="Horse Head Enums and Textures Auth w/ Get Skull Command" />
     <MESSAGE value="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format" />
     <MESSAGE value="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format&#10;Started Horse GUI Creation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format&#10;Started Horse GUI Creation" />
+    <MESSAGE value="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format&#10;Started Horse GUI Creation&#10;Horse Heads Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Horse Head Enums and Textures Auth w/ Get Skull Command v2.&#10;ChatColor Format&#10;Started Horse GUI Creation&#10;Horse Heads Fix" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
